@@ -4,6 +4,11 @@ Comparison between EF Core and Dapper when loading N objects from database to me
 
 Benchmarking Tool: BenchmarkDotNet
 
+# How To Run It
+
+	>cd src
+	>dotnet run -c Release
+
 # Sample Results
 
 * 400 000 rows
